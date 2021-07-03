@@ -1,5 +1,8 @@
-# ParsNetPlus
+# ParsNetPlus Pytorch
 ParsNet++: Online Weakly Supervised Learning Approach for Quality Monitoring of Complex Manufacturing Process
+
+derived from "Weakly Supervised Deep Learning Approach in Streaming Environments. IEEE BigData 2019: 1195-1202"
+
 
 # Requirements
 The current version of the code has been tested with:
